@@ -1,9 +1,10 @@
 # Javascript_Simplified
 
 This is a javascript library. These are te following steps:
+First download the framework.css file from the code.
 
-First between the <head> and </head> tag, put the following line of code:
-<script src="https://rawcdn.githack.com/ka18062007/Javascript_Simplified/2e98bb34d0f80bbccc431279f0060df6edfd8824/framework.js"></script>
+Then between the <head> and </head> tag, put the link of code:
+<script src="Link the file here"></script>
 
 Then add your custom javascript file and and use it to run the library...
 
